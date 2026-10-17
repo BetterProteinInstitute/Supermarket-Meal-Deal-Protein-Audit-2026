@@ -8,7 +8,7 @@ The file titled 'Meal deal paper data - raw' contains the raw data collected fro
 
 The file titled 'Meal deal paper data - lightly cleaned' contains the raw data collected from the meal deal items included in the study, but which had been lightly cleaned. More infomration about how this data was cleaned can be found below.
 
-The file titled 'Meal deal paper data - lightly cleaned - overview' contains the an overview of various pieces of the cleaned data, including the average protein content of a vegan and a non-vegan meal deal (weighted by supermarket or by item), the number of mains, sides, and drinks, by supermarket as well as their totals, the average protein content of items' and supermarkets' mains, sides, and drinks, and also the ranking of the top 10% of the mains.
+The file titled 'Meal deal paper data - lightly cleaned - overview' contains the an overview of various pieces of the cleaned data. This includes the average protein content of a vegan and a non-vegan meal deal (weighted by supermarket and by item), the total number of products across all supermarkets and all categories, the number of mains, sides, and drinks, by supermarket as well as their totals, the average protein content of items' and supermarkets' mains, sides, and drinks, and also the ranking of the top 10% of the mains.
 
 
 -- RAW DATA COLLECTION --
